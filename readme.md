@@ -9,6 +9,6 @@ There are a lot of individual investors who invest as a side hobby and don't hav
 
 [TWStocks](TWStocks.ipynb): Gets data from the local database, filters the stocks based on selected filters, and emails out the technical picks.
 
-[gui](GUI.ipynb): A graphical user interface for the stock screener. Checkboxes and input thresholds to select filters and outputs a treeview for users to scroll through a list of results with stock number, company name, and company industry. Clicking on a stock will show its recent info in charts web-scraped at https://www.twse.com.tw/pdf/ch/[StockNumber]_ch.pdf. The info includes institutional investors overbuy indicator, margin trading, short selling, and recent trend.
+[GUI](GUI.ipynb): A graphical user interface for the stock screener. Checkboxes and input thresholds to select filters and outputs a treeview for users to scroll through a list of results with stock number, company name, and company industry. Clicking on a stock will show its recent info in charts web-scraped at https://www.twse.com.tw/pdf/ch/[StockNumber]_ch.pdf. The info includes institutional investors overbuy indicator, margin trading, short selling, and recent trend.
 
 [updateStocks](updateStocks.ipynb): An automated script ran daily (business days) to update stocks and institutional investors data to the local database.
