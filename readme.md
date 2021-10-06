@@ -1,5 +1,5 @@
 # Stocks Filter
-A stock screener for the Taiwan Stock Exchange based on Technical Analysis
+A stocks screener for the Taiwan Stock Exchange based on Technical Analysis
 
 # Motivation
 There are a lot of individual investors who invest as a side hobby and don't have the time to filter stocks one by one. This stock screener does that job for the users based on user-selected filters and saves so much time while giving technical picks. The filters currently include hourly, daily, weekly moving averages, daily volume, moving averge convergence divergence, the relative strength index, and institutional investors overbuy indicator (adding more).
